@@ -6,30 +6,30 @@
 
 We captured all the news reports of food safety incidents in 11 years from January 2007 to December 2017 and finally constructed a food safety incidents corpus containing 4156 reports after automatic de-duplication. Based on the corpus, a classification model for food safety incidents is constructed by training SVM,  BERT and FastText models.
 
-The following is a description of the data sets and models in this project.
+The following is a description of the datasets and models in this project.
 
 
 ## Table of Contents
 
-- [Data sets](#Data sets)
+- [Datasets](#Datasets)
   - [Introduction](#Introduction)
   - [Preprocessing](#Preprocessing)
 - [Models](#Models)
 	- [SVM](#SVM)
-	  - About
-	  - Usage
-	  - Result
+	  - [About](#About)
+	  - [Usage](#Usage)
+	  - [Result](#Result)
 	- [BERT](#BERT)
-	  - About
-	  - Usage
-	  - Result
+	  - [About](#About)
+	  - [Usage](#Usage)
+	  - [Result](#Result)
 	- [FastText](#FastText)
-	  - About
-	  - Usage
-	  - Result
+	  - [About](#About)
+	  - [Usage](#Usage)
+	  - [Result](#Result)
 - [Conclusion](#Conclusion)
 
-## Data sets
+## Datasets
 
 ### Introduction
 
@@ -46,9 +46,9 @@ According to the existing Chinese food safety law, food safety incidents are div
 | label_3 |            Dairy products            |   169    |
 | label_4 |      Fake  and shoddy products       |   2057   |
 
-The data sets and labels used in the three models are as follows:
+The datasets and labels used in the three models are as follows:
 
-|  Model   |       Data sets      |                          Labels                          |
+|  Model   |       Datasets      |                          Labels                          |
 | :------: | :--------------: | :------------------------------------------------------: |
 |   SVM    |   10-fold-SVM    |                   ['0', '1', '2', '3']                   |
 |   BERT   |   10-fold-BERT   |                   ['0', '1', '2', '3']                   |
