@@ -18,7 +18,7 @@ The following is a description of the datasets and models in this project.
   - [SVM](#SVM)
   - [BERT](#BERT)
   - [FastText](#FastText)
-- [3.Conclusion](#3.Conclusion)
+- [Conclusion](#Conclusion)
 
 ## Datasets
 
