@@ -12,7 +12,7 @@ The following is a description of the datasets and models in this project.
 ## Table of Contents
 
 - [1.Datasets](#1.Datasets)
-  - [1.1.Introduction](#1.1.Introduction)
+  - [1.1 Introduction](#1.1 Introduction)
   - [1.2.Preprocessing](#1.2.Preprocessing)
 - [2.Models](#2.Models)
   - [2.1.SVM](#2.1.SVM)
@@ -31,7 +31,7 @@ The following is a description of the datasets and models in this project.
 
 ## 1.Datasets
 
-### 1.1.Introduction
+### 1.1 Introduction
 
 The corpus required for this experiment comes from six websites that reported food safety events comprehensively, such as "China food safety network" and so on. By using the crawler tool developed by python, we captured all the news reports of food safety incidents in 11 years from January 2007 to December 2017. Since the same food safety incidents may be reported many times by different news websites, in order to prevent the interference caused by data duplication, a food safety incidents corpus containing 4156 reports is finally constructed after automatic de-duplication. 
 
