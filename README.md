@@ -12,7 +12,7 @@ The following is a description of the datasets and models in this project.
 ## Table of Contents
 
 - [1.Datasets](#1.Datasets)
-  - [1.1 Introduction](#1.1Introduction)
+  - [1.1Introduction](#1.1Introduction)
   - [1.2.Preprocessing](#1.2.Preprocessing)
 - [2.Models](#2.Models)
   - [2.1.SVM](#2.1.SVM)
