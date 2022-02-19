@@ -53,7 +53,7 @@ On the basis of preprocessing, the corresponding data are divided into training 
 
 #### About
 
-![SVM](H:\Food_Safety_Incidents\Models\SVM\SVM.png)
+![SVM](https://user-images.githubusercontent.com/60532543/154809178-a19786f8-c89b-42bf-8dff-8d799a6d34e3.png)
 
 **Support Vector Machine (SVM)** is a supervised machine learning classifier that supports vector computation. The core idea is to classify data into two or more classes by constructing a partition surface. Support vector machine is widely used in the field of natural language classification. The frequency of words in a text is input to SVM as a feature attribute, which means that the text is regarded as a bag of words, and each word in the bag has a feature, and the value of the feature is the frequency of the word, and then the frequency of the word is vectorized to use SVM classification.
 
@@ -81,7 +81,7 @@ The specific classification of the best performance SVM model
 
 #### About
 
-![BERT](H:\Food_Safety_Incidents\Models\BERT\BERT.png)
+![BERT](https://user-images.githubusercontent.com/60532543/154809199-165ecb8f-59c0-4e5c-8478-e91274b507d4.png)
 
 **BERT** (Devlin et al., 2019) is a language representation model, which stands for Bidirectional Encoder Representations from Transformers. BERT is able to extract deep semantic features based on a bidirectional context and is designed to pre-train deep bidirectional representations from unlabeled text, and pre-trained BERT models can be fine-tuned by simply adding an output layer to create state-of-the-art models for a wide range of tasks.
 
@@ -107,7 +107,7 @@ The specific classification of the best performance BERT model
 
 #### About
 
-![FastText](H:\Food_Safety_Incidents\Models\FastText\FastText.png)
+![FastText](https://user-images.githubusercontent.com/60532543/154809187-6a83be10-84d5-4e21-9601-baee92c1677e.png)
 
 **FastText** is a word embedding based classifier developed by Facebook, which was in traduced by Armand Joulin, et al.2016. It was based on n-gram features, dimensionality reduction, and a fast approximation of the Softmax classifier. FastText model propose to learn representations for character n-grams, and to represent words as the sum of the n-gram vectors. 
 
@@ -131,7 +131,7 @@ The specific classification of the best performance FASTTEXT model
 
 ## Conclusion
 
-![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)
+![1](https://user-images.githubusercontent.com/60532543/154809221-fb85297e-365e-426e-810d-e236b87d324a.jpg)
 
-From the F value of each category in the experimental results, it can be concluded that the performance of the three models for the classification of food safety incidents from high to low is: FastText > Bert > SVM.
+From the F value of each category in the experimental results, it can be concluded that the performance of the three models for the classification of food safety incidents from high to low is: FastText > BERT > SVM.
 
