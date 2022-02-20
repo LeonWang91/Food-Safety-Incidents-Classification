@@ -81,7 +81,7 @@ The specific classification of the best performance SVM model
 
 #### About
 
-**BERT** (Devlin et al., 2019) is a language representation model, which stands for Bidirectional Encoder Representations from Transformers. BERT is able to extract deep semantic features based on a bidirectional context and is designed to pre-train deep bidirectional representations from unlabeled text, and pre-trained BERT models can be fine-tuned by simply adding an output layer to create state-of-the-art models for a wide range of tasks.
+**Bidirectional Encoder Representation from Transformers (BERT)** is a language representation model, which stands for Bidirectional Encoder Representations from Transformers. BERT is able to extract deep semantic features based on a bidirectional context and is designed to pre-train deep bidirectional representations from unlabeled text, and pre-trained BERT models can be fine-tuned by simply adding an output layer to create state-of-the-art models for a wide range of tasks.
 
 ![BERT](https://user-images.githubusercontent.com/60532543/154809199-165ecb8f-59c0-4e5c-8478-e91274b507d4.png)
 
