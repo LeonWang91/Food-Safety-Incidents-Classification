@@ -47,7 +47,7 @@ The datasets and labels used in the three models are as follows:
 
 ## Models
 
-On the basis of preprocessing, the corresponding data are divided into training set and test set according to 9:1, and the experiment is carried out in the way of the 10-fold cross-validation, so as to avoid the contingency of the results caused by a single experiment. The following are the specific steps of using the three models to study the automatic classification of food safety events.
+On the basis of preprocessing, the corresponding data are divided into training set and test set according to 9:1, and the experiment is carried out in the way of the 10-fold cross-validation, so as to avoid the contingency of the results caused by a single experiment. The following are the specific steps of using the three models to study the automatic classification of food safety incidents.
 
 ### SVM
 
