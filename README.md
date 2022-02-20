@@ -9,7 +9,7 @@ We captured all the news reports of food safety incidents in 11 years from Janua
 The following is a description of the datasets and models in this project.
 
 
-## Table of Contents
+## Contents
 
 - [Datasets](#Datasets)
   - [Introduction](#Introduction)
